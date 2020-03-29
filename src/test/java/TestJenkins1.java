@@ -23,7 +23,7 @@ public class TestJenkins1 {
     }
 
     @Test
-    void test() {
+    void hiSchool() {
         System.out.println("Hi, School");
         driver.get("https://pasv.us/en");
         String welcome = driver.findElement(By.cssSelector(".t480__title.t-title.t-title_xs.t-margin_auto")).getText();
