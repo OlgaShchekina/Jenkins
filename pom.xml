@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>selenium</groupId>
-    <artifactId>Jenkins2</artifactId>
+    <artifactId>Jenkins</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>Jenkins2</name>
+    <name>Jenkins</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 

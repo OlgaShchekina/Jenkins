@@ -30,11 +30,11 @@ public class TestJenkins1 {
         assertEquals("We teach programming\nand QA", welcome);
 
     }
-    @Test
-    void failure()
-    {
-        assertEquals(1,1+1);
-    }
+//    @Test
+//    void failure()
+//    {
+//        assertEquals(1,1+1);
+//    }
     @AfterEach
     public void tearDown()
     {
